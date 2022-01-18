@@ -1,0 +1,47 @@
+body {
+  font-family: "Poppins";
+}
+.brandstyle {
+  font-family: "Pacifico";
+  color: blue !important;
+  font-size: 25px;
+}
+.top-destination-heading {
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.top-destination-para {
+  text-align: center;
+  margin-bottom: 35px;
+}
+.thing-to-do-head {
+  text-align: center;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: 500;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.things-image-text {
+  text-align: center !important;
+  margin-top: 5px;
+}
+.find-more-btn {
+  color: white;
+  text-transform: capitalize !important;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+.exp-image-outer{
+    padding: 10px;
+}
+.exp-head{
+    font-weight: 500;
+}
+.act-head{
+    text-align: center;
+    margin-bottom: 10px;
+}
